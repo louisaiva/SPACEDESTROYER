@@ -1,0 +1,29 @@
+{
+    "spaceship_1":
+    {
+        "life":5,
+        "maniabilite":5,
+        "name":"lambda x-520"
+    },
+
+    "spaceship_2":
+    {
+        "life":8,
+        "maniabilite":2,
+        "name":"deadly cargo"
+    },
+
+    "spaceship_3":
+    {
+        "life":3,
+        "maniabilite":7,
+        "name":"supersonic Y-3"
+    },
+
+    "spaceship_4":
+    {
+        "life":6,
+        "maniabilite":4,
+        "name":"the angel rising"
+    }
+}
